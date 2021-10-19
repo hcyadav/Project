@@ -1,0 +1,27 @@
+.not-found{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-item:hover{
+    background-color: #fff;
+
+}
+.form-group{
+    margin: 10px;
+}
+.btn-block{
+    margin-left: 10px;
+}
+.containery{
+    margin:10px auto;
+}
+#action{
+    margin: 10px 8px;
+    padding: 10px 5px;
+}
